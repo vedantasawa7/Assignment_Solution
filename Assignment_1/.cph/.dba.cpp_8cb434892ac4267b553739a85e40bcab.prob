@@ -1,0 +1,1 @@
+{"name":"Local: dba","url":"d:\\Software\\Algouniversity\\Assignment_Solution\\Assignment_1\\dba.cpp","tests":[{"id":1717260250914,"input":"5 5\n1 2 5 6 8\n5 1 2 8 8","output":"2\n0\n1\n4\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Software\\Algouniversity\\Assignment_Solution\\Assignment_1\\dba.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1ili","url":"d:\\Software\\Algouniversity\\Assignment_Solution\\Assignment_1\\1ili.cpp","tests":[{"id":1717261690066,"input":"5 2\n1 2 3 4 4\n2\n3","output":"1 1\n2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Software\\Algouniversity\\Assignment_Solution\\Assignment_1\\1ili.cpp","group":"local","local":true}
